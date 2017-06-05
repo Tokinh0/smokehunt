@@ -1,0 +1,40 @@
+<html>
+  <head>
+	<script
+      src="https://code.jquery.com/jquery-3.2.1.min.js"
+      integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+      crossorigin="anonymous"></script><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	
+	<style type="text/css">
+	@import url("style.css");
+	</style>
+    
+	<link href="https://fonts.googleapis.com/css?family=Jura" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Days+One" rel="stylesheet">
+    <script type="text/javascript" src="js.js"> </script>
+    <title> Smoke Hunters </title>
+  </head>
+  
+  <body>
+  <div class="painel">
+    <h1 class="iniciais"><a href="index.html"> SMK </a></h1>
+    <h1 class="intro">SMOKE HUNTERS</h1>
+    <h3 class="user"><a href="login.html"><img class="cs" src="C:\Users\jean-\Downloads\pck\CSGO.png"> CS-GO </a></h1>
+    <h3 class="register"><a href="register.html"><img class="dota" src="C:\Users\jean-\Downloads\pck\dota.png"> DOTA 2</a></h1>
+  </div>
+ 
+	<div class="container1">
+		<h2 class="visite">VISITE O NOSSO SERVIDOR</h2>
+		<a href="https://discord.gg/c8M4mPt"><img class="discord" src="https://discordapp.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png"></a>
+    </div>
+	
+	<div>
+		<a href="#"><img src=""/></a>
+		<a href="#"><img src=""/></a>
+		<a href="#"><img src=""/></a>
+		<a href="#"><img src=""/></a>
+		<a href="#"><img src=""/></a>
+	</div>
+  
+  </body>
+  </html>
